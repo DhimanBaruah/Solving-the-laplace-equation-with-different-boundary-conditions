@@ -1,1 +1,1 @@
-# Solving-the-laplace-equation-with-different-boundary-conditions
+# Solving-the-laplace-equation-with-arbitrary-boundary-conditions
